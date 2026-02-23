@@ -1,3 +1,5 @@
+> 🇮🇷 [**برای مطالعه نسخه فارسی کلیک کنید (Persian Version)**](README-fa.md)
+
 # 🏆 Competitive Programming & Algorithmic Challenges
 
 Welcome to my personal repository for competitive programming and algorithmic problem-solving! 🚀
