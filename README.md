@@ -9,9 +9,9 @@ Here you can find my accepted solutions to problems from various platforms. I tr
 
 | Platform | My Profile / Handle | Solved Count |
 | :--- | :--- | :---: |
-| <img src="https://simpleicons.org/icons/codeforces.svg" width="16"/> **Codeforces** | [`[imFarzadSh]`](https://codeforces.com/profile/imFarzadSh) | ⏳ |
-| <img src="https://simpleicons.org/icons/codeforces.svg" width="16"/> **CSES** | [`[imFarzadSh]`](https://cses.fi/user/392257) | ⏳ |
-| <img src="https://simpleicons.org/icons/codeforces.svg" width="16"/> **Quera** | [`[farzad shahbazi]`](https://quera.org/profile/f4x7ht) | ⏳ |
+| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=24" width="16"/> **Codeforces** | [`[imFarzadSh]`](https://codeforces.com/profile/imFarzadSh) | ⏳ |
+| 🧩 **CSES** | [`[imFarzadSh]`](https://cses.fi/user/392257) | ⏳ |
+| 💻 **Quera** | [`[farzad shahbazi]`](https://quera.org/profile/f4x7ht) | ⏳ |
 
 ## 🧠 Core Topics & Focus Areas
 
