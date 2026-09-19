@@ -48,4 +48,5 @@ competitive-programming/
 ├── Codeforces/          # Categorized by problem rating (e.g., Rating-800, Rating-1000)
 ├── CSES/                # Structured by the official 11 problem sets (Introductory, Sorting, etc.)
 ├── Quera/               # University, technology, and contest-specific problems
+├── fundamentals/        # contains core algorithms, techniques, and common patterns in competitive programming that are repeatedly used across different problems.
 └── Math-and-Logic/      # Independent mathematical and logical implementations
