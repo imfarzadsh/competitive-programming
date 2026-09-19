@@ -1,0 +1,14 @@
+# Executables (فایل‌های اجرایی)
+*.exe
+*.out
+*.app
+
+# Compiled Object Files (فایل‌های واسط کامپایل)
+*.o
+*.obj
+
+# IDE & Editor folders (پوشه‌های تنظیمی ادیتورها)
+.vscode/
+.idea/
+bin/
+build/
