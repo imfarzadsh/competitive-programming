@@ -3,7 +3,7 @@
  * Problem Link: https://codeforces.com/contest/4/problem/A
  * Platform:     Codeforces
  * Difficulty:   800 (Easy)
- * Topics:       Math, Brute Force
+ * Topics:       Math(*), Brute Force
  * 
  * Time Complexity:  O(1)
  * Space Complexity: O(1)
