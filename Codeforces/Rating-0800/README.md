@@ -1,13 +1,13 @@
 # 800 Rating Codeforces Problems
 
-**Solved :** 1
+**Solved :** 2
 
 ---
 
 | Number | Problem | Tags | Status | Flags |
 |---|---|---|---|---|
 | 0001 | 4A - Watermelon | math | ✅ | — |
-||||||
+| 0002 | 231A - Team | brute force| ✅ | — |
 
 ---
 
