@@ -4,7 +4,6 @@
  * Platform:     Codeforces
  * Difficulty:   800 (Easy)
  * Topics:       brute force, implementation(*), strings
-
  * 
  * Time Complexity:  O(n)
  * Space Complexity: O(1) [or o(min(n,26))]
