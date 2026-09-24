@@ -8,7 +8,7 @@ Welcome to my Codeforces solutions repository! Here I organize my solutions base
 
 | Rating Folder | Solved Problems | Status |
 | :---: | :---: | :---: |
-| [📁 0800 Rating](./Rating-0800/) | 6 | 🟢 Active |
+| [📁 0800 Rating](./Rating-0800/) | 7 | 🟢 Active |
 | [📁 0900 Rating](./Rating-0900/) | 0 | ⏳ Planned |
 | [📁 1000 Rating](./Rating-1000/) | 1 | 🟢 Active |
 
