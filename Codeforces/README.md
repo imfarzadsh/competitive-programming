@@ -10,7 +10,7 @@ Welcome to my Codeforces solutions repository! Here I organize my solutions base
 | :---: | :---: | :---: |
 | [📁 0800 Rating](./Rating-0800/) | 5 | 🟢 Active |
 | [📁 0900 Rating](./Rating-0900/) | 0 | ⏳ Planned |
-| [📁 1000 Rating](./Rating-1000/) | 0 | ⏳ Planned |
+| [📁 1000 Rating](./Rating-1000/) | 1 | 🟢 Active |
 
 ---
 
