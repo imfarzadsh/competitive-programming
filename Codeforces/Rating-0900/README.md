@@ -1,12 +1,12 @@
 # 900 Rating Codeforces Problems
 
-**Solved :** 0
+**Solved :** 1
 
 ---
 
 | Number | Problem | Tags | Status | Flags |
 |---|---|---|---|---|
-| 0001 | — | — | 🔜 | — |
+| 0001 | [Kefa and First Steps](./0001-580A-KefaAndFirstSteps.cpp) | — | ✅ | ⭐ |
 | 0002 | — | — | 🔜 | — |
 | 0003 | — | — | 🔜 | — |
 | 0004 | — | — | 🔜 | — |
