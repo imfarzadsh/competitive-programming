@@ -13,7 +13,7 @@ Welcome to my Codeforces solutions repository! Here I organize my solutions base
 | [📁 1000 Rating](./Rating-1000/) | 2 | 🟢 Active |
 | [📁 1100 Rating](./Rating-1100/) | 0 | ⏳ Planned |
 | [📁 1200 Rating](./Rating-1200/) | 0 | ⏳ Planned |
-| [📁 1300 Rating](./Rating-1300/) | 0 | ⏳ Planned |
+| [📁 1300 Rating](./Rating-1300/) | 1 | 🟢 Active |
 
 ---
 
