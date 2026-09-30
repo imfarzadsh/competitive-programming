@@ -6,7 +6,7 @@
 
 | Number | Problem | Tags | Status | Flags |
 |---|---|---|---|---|
-| 0001 | [25A - IQ test](0001-25A-IQtest.cpp) | — | ✅ | — |
+| 0001 | [25A - IQ test](0001-25A-IQtest.cpp) | brute force | ✅ | — |
 | 0002 | — | — | 🔜 | — |
 | 0003 | — | — | 🔜 | — |
 | 0004 | — | — | 🔜 | — |
