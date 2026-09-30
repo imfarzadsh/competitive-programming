@@ -1,6 +1,6 @@
 # 800 Rating Codeforces Problems
 
-**Solved :** 7
+**Solved :** 8
 
 ---
 
@@ -13,7 +13,7 @@
 | 0005 | [271A - Beautiful Year](./0005-271A-BeautifulYear.cpp) | brute force | ✅ | — |
 | 0006 | [50A - Domino piling](./0006-50A-DominoPiling.cpp) | math | ✅ | — |
 | 0007 | [339A - Helpful Maths](./0007-339A-HelpfulMaths.cpp) | Sortings | ✅ | — |
-| 0008 | — | — | 🔜 | — |
+| 0008 | [996A - Hit the Lottery](./0008-996A-HitTheLottery.cpp) | greedy | ✅ | — |
 | 0009 | — | — | 🔜 | — |
 | 0010 | — | — | 🔜 | — |
 | 0011 | — | — | 🔜 | — |
