@@ -1,13 +1,13 @@
 # 1100 Rating Codeforces Problems
 
-**Solved :** 1
+**Solved :** 2
 
 ---
 
 | Number | Problem | Tags | Status | Flags |
 |---|---|---|---|---|
 | 0001 | [706B - Interesting drink](./0001-706B-InterestingDrink.cpp) | binary search | ✅ | ⭐ |
-| 0002 | — | — | 🔜 | — |
+| 0002 | [363B - Fence](./0002-363B-Fence.cpp) | Implementation | ✅ | — |
 | 0003 | — | — | 🔜 | — |
 | 0004 | — | — | 🔜 | — |
 | 0005 | — | — | 🔜 | — |
