@@ -6,7 +6,7 @@
 
 | Number | Problem | Tags | Status | Flags |
 |---|---|---|---|---|
-| 0001 | — | — | 🔜 | — |
+| 0001 | [1594C - Make Them Equal](./0001-1594C-MakeThemEqual.cpp) | greedy | ✅ | — |
 | 0002 | — | — | 🔜 | — |
 | 0003 | — | — | 🔜 | — |
 | 0004 | — | — | 🔜 | — |
