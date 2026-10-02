@@ -11,7 +11,7 @@ Welcome to my Codeforces solutions repository! Here I organize my solutions base
 | [📁 0800 Rating](./Rating-0800/) | 10 | 🟢 Active |
 | [📁 0900 Rating](./Rating-0900/) | 2 | 🟢 Active |
 | [📁 1000 Rating](./Rating-1000/) | 3 | 🟢 Active |
-| [📁 1100 Rating](./Rating-1100/) | 2 | 🟢 Active |
+| [📁 1100 Rating](./Rating-1100/) | 3 | 🟢 Active |
 | [📁 1200 Rating](./Rating-1200/) | 1 | 🟢 Active |
 | [📁 1300 Rating](./Rating-1300/) | 2 | 🟢 Active |
 

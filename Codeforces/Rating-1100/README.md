@@ -1,6 +1,6 @@
 # 1100 Rating Codeforces Problems
 
-**Solved :** 2
+**Solved :** 3
 
 ---
 
@@ -8,7 +8,7 @@
 |---|---|---|---|---|
 | 0001 | [706B - Interesting drink](./0001-706B-InterestingDrink.cpp) | binary search | ✅ | ⭐ |
 | 0002 | [363B - Fence](./0002-363B-Fence.cpp) | Implementation | ✅ | — |
-| 0003 | — | — | 🔜 | — |
+| 0003 | [1722D - Line](./0003-1722D-Line.cpp) | — | 🔜 | — |
 | 0004 | — | — | 🔜 | — |
 | 0005 | — | — | 🔜 | — |
 | 0006 | — | — | 🔜 | — |
