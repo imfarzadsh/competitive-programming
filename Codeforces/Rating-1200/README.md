@@ -1,13 +1,13 @@
 # 1200 Rating Codeforces Problems
 
-**Solved :** 0
+**Solved :** 2
 
 ---
 
 | Number | Problem | Tags | Status | Flags |
 |---|---|---|---|---|
 | 0001 | [1594C - Make Them Equal](./0001-1594C-MakeThemEqual.cpp) | greedy | ✅ | — |
-| 0002 | — | — | 🔜 | — |
+| 0002 | [492B - Vanya and Lanterns](./0002-492B-VanyaAndLanterns.cpp) | sorting | ✅ | — |
 | 0003 | — | — | 🔜 | — |
 | 0004 | — | — | 🔜 | — |
 | 0005 | — | — | 🔜 | — |
