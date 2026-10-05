@@ -1,6 +1,6 @@
 # 800 Rating Codeforces Problems
 
-**Solved :** 9
+**Solved :** 11
 
 ---
 
@@ -16,7 +16,7 @@
 | 0008 | [996A - Hit the Lottery](./0008-996A-HitTheLottery.cpp) | greedy | ✅ | — |
 | 0009 | [732A - Buy a Shovel](./0009-732A-BuyAShovel.cpp) | brute froce | ✅ | — |
 | 0010 | [381A - Sereja and Dima](./0010-381A-SerejaAndDima.cpp) | two pointers | ✅ | — |
-| 0011 | — | — | 🔜 | — |
+| 0011 | [1472B - Fair Division](./0011-1472B-FairDivision.cpp) | math | ✅ | ⭐ |
 | 0012 | — | — | 🔜 | — |
 | 0013 | — | — | 🔜 | — |
 | 0014 | — | — | 🔜 | — |
