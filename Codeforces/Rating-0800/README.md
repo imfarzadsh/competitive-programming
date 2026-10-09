@@ -1,6 +1,6 @@
 # 800 Rating Codeforces Problems
 
-**Solved :** 11
+**Solved :** 12
 
 ---
 
@@ -17,7 +17,7 @@
 | 0009 | [732A - Buy a Shovel](./0009-732A-BuyAShovel.cpp) | brute froce | ✅ | — |
 | 0010 | [381A - Sereja and Dima](./0010-381A-SerejaAndDima.cpp) | two pointers | ✅ | — |
 | 0011 | [1472B - Fair Division](./0011-1472B-FairDivision.cpp) | math | ✅ | ⭐ |
-| 0012 | — | — | 🔜 | — |
+| 0012 | [2188A - Divisible Permutation](./0012-2188A-DivisiblePermutation.cpp) | constructive algorithms | ✅ | ⭐ |
 | 0013 | — | — | 🔜 | — |
 | 0014 | — | — | 🔜 | — |
 | 0015 | — | — | 🔜 | — |
