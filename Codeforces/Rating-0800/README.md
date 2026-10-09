@@ -1,6 +1,6 @@
 # 800 Rating Codeforces Problems
 
-**Solved :** 12
+**Solved :** 13
 
 ---
 
@@ -18,7 +18,7 @@
 | 0010 | [381A - Sereja and Dima](./0010-381A-SerejaAndDima.cpp) | two pointers | ✅ | — |
 | 0011 | [1472B - Fair Division](./0011-1472B-FairDivision.cpp) | math | ✅ | ⭐ |
 | 0012 | [2188A - Divisible Permutation](./0012-2188A-DivisiblePermutation.cpp) | constructive algorithms | ✅ | ⭐ |
-| 0013 | — | — | 🔜 | — |
+| 0013 | [2197A - Friendly Numbers](./0013-2197A-FriendlyNumbers.cpp) | Math | ✅ | ⭐ |
 | 0014 | — | — | 🔜 | — |
 | 0015 | — | — | 🔜 | — |
 | 0016 | — | — | 🔜 | — |
