@@ -12,7 +12,7 @@
 | پلتفرم | پروفایل / نام کاربری من | تعداد حل‌شده |
 | :--- | :--- | :---: |
 | <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=24" width="16"/> **Codeforces** | [`[imFarzadSh]`](https://codeforces.com/profile/imFarzadSh) | 26 |
-| 🧩 **CSES** | [`[imFarzadSh]`](https://cses.fi/user/392257) | 3 |
+| 🧩 **CSES** | [`[imFarzadSh]`](https://cses.fi/user/392257) | 8 |
 | 💻 **Quera** | [`[farzad shahbazi]`](https://quera.org/profile/f4x7ht) | ⏳ |
 
 
