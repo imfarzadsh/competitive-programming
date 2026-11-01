@@ -6,11 +6,11 @@ Welcome to the **CSES Problem Set** section! This directory contains my solution
 
 ## 📊 Progress Overview
 
-**Total Solved:** 10
+**Total Solved:** 11
 
 | # | Category | Solved | Status | Directory Link |
 |:---:|---|:---:|:---:|:---:|
-| 1 | Introductory Problems | 10 | 🟢 Active | [Go to Folder](./01.IntroductoryProblems/) |
+| 1 | Introductory Problems | 11 | 🟢 Active | [Go to Folder](./01.IntroductoryProblems/) |
 | 2 | Sorting and Searching | 0 | ⏳ Planned | — |
 | 3 | Dynamic Programming | 0 | ⏳ Planned | — |
 | 4 | Graph Algorithms | 0 | ⏳ Planned | — |
