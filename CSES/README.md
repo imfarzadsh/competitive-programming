@@ -6,12 +6,12 @@ Welcome to the **CSES Problem Set** section! This directory contains my solution
 
 ## 📊 Progress Overview
 
-**Total Solved:** 12
+**Total Solved:** 13
 
 | # | Category | Solved | Status | Directory Link |
 |:---:|---|:---:|:---:|:---:|
-| 1 | Introductory Problems | 12 | 🟢 Active | [Go to Folder](./01.IntroductoryProblems/) |
-| 2 | Sorting and Searching | 0 | ⏳ Planned | — |
+| 1 | Introductory Problems | 12 | ⏳ Planned | [Go to Folder](./01.IntroductoryProblems/) |
+| 2 | Sorting and Searching | 1 | 🟢 Active | [Go to Folder](./02.SortingAndSearching/) |
 | 3 | Dynamic Programming | 0 | ⏳ Planned | — |
 | 4 | Graph Algorithms | 0 | ⏳ Planned | — |
 | 5 | Range Queries | 0 | ⏳ Planned | — |
