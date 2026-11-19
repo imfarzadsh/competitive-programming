@@ -13,23 +13,23 @@ Here you can find my accepted solutions to problems from various platforms. I tr
 
 ## 📊 Stats
 
-**Total Solved: 47** — `cpp`: 47
+**Total Solved: 48** — `cpp`: 48
 
 | Platforms | Solved Count | Directory Link |
 | --- | ---: | --- |
 | Codeforces | 26 | [Open](Codeforces/) |
-| CSES | 19 | [Open](CSES/) |
+| CSES | 20 | [Open](CSES/) |
 | fundamentals | 2 | [Open](fundamentals/) |
 
 ### 🕒 Last 5 pushed solutions
 
 | Problem | Directory Link |
 | --- | --- |
+| MinimizingCoins | [Open](CSES/03.DynamicProgramming/0002-1634-MinimizingCoins.cpp) |
 | DiceCombinations | [Open](CSES/03.DynamicProgramming/0001-1633-DiceCombinations.cpp) |
 | RestaurantCustomers | [Open](CSES/02.SortingAndSearching/0005-1619-RestaurantCustomers.cpp) |
 | ConcertTickets | [Open](CSES/02.SortingAndSearching/0004-1091-ConcertTickets.cpp) |
 | FerrisWheel | [Open](CSES/02.SortingAndSearching/0003-1090-FerrisWheel.cpp) |
-| CountingRooms | [Open](CSES/04.GraphAlgorithms/0001-1192-CountingRooms.cpp) |
 
 <!-- REPO-STATS:END -->
 

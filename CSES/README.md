@@ -8,13 +8,13 @@ Welcome to the **CSES Problem Set** section! This directory contains my solution
 
 ## 📊 Stats
 
-**Total Solved: 19** — `cpp`: 19
+**Total Solved: 20** — `cpp`: 20
 
 | Category | Solved Count | Directory Link |
 | --- | ---: | --- |
 | 01.IntroductoryProblems | 12 | [Open](01.IntroductoryProblems/) |
 | 02.SortingAndSearching | 5 | [Open](02.SortingAndSearching/) |
-| 03.DynamicProgramming | 1 | [Open](03.DynamicProgramming/) |
+| 03.DynamicProgramming | 2 | [Open](03.DynamicProgramming/) |
 | 04.GraphAlgorithms | 1 | [Open](04.GraphAlgorithms/) |
 
 <!-- REPO-STATS:END -->
