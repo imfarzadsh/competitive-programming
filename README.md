@@ -25,11 +25,11 @@ Here you can find my accepted solutions to problems from various platforms. I tr
 
 | Problem | Directory Link |
 | --- | --- |
+| CoinCombinationsII | [Open](CSES/03.DynamicProgramming/0004-1636-CoinCombinationsII.cpp) |
 | RemovingDigits | [Open](CSES/03.DynamicProgramming/0005-1637-RemovingDigits.cpp) |
 | GridPathsI | [Open](CSES/03.DynamicProgramming/0006-1638-GridPathsI.cpp) |
 | BookShop | [Open](CSES/03.DynamicProgramming/0007-1158-BookShop.cpp) |
 | CoinCombinationsI | [Open](CSES/03.DynamicProgramming/0003-1635-CoinCombinationsI.cpp) |
-| 0004.1636-CoinCombinationsII | [Open](CSES/03.DynamicProgramming/0004.1636-CoinCombinationsII.cpp) |
 
 <!-- REPO-STATS:END -->
 
