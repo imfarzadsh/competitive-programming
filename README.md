@@ -13,23 +13,23 @@ Here you can find my accepted solutions to problems from various platforms. I tr
 
 ## 📊 Stats
 
-**Total Solved: 50** — `cpp`: 50
+**Total Solved: 53** — `cpp`: 53
 
 | Platforms | Solved Count | Directory Link |
 | --- | ---: | --- |
 | Codeforces | 26 | [Open](Codeforces/) |
-| CSES | 22 | [Open](CSES/) |
+| CSES | 25 | [Open](CSES/) |
 | fundamentals | 2 | [Open](fundamentals/) |
 
 ### 🕒 Last 5 pushed solutions
 
 | Problem | Directory Link |
 | --- | --- |
+| RemovingDigits | [Open](CSES/03.DynamicProgramming/0005-1637-RemovingDigits.cpp) |
+| GridPathsI | [Open](CSES/03.DynamicProgramming/0006-1638-GridPathsI.cpp) |
+| BookShop | [Open](CSES/03.DynamicProgramming/0007-1158-BookShop.cpp) |
 | CoinCombinationsI | [Open](CSES/03.DynamicProgramming/0003-1635-CoinCombinationsI.cpp) |
 | 0004.1636-CoinCombinationsII | [Open](CSES/03.DynamicProgramming/0004.1636-CoinCombinationsII.cpp) |
-| MinimizingCoins | [Open](CSES/03.DynamicProgramming/0002-1634-MinimizingCoins.cpp) |
-| DiceCombinations | [Open](CSES/03.DynamicProgramming/0001-1633-DiceCombinations.cpp) |
-| RestaurantCustomers | [Open](CSES/02.SortingAndSearching/0005-1619-RestaurantCustomers.cpp) |
 
 <!-- REPO-STATS:END -->
 

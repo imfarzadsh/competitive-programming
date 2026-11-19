@@ -4,7 +4,7 @@
 
 ## 📊 Stats
 
-**Total Solved: 4** — `cpp`: 4
+**Total Solved: 7** — `cpp`: 7
 
 | Number | Problem | Directory Link |
 | ---: | --- | --- |
@@ -12,5 +12,8 @@
 | 0002 | MinimizingCoins | [Open](0002-1634-MinimizingCoins.cpp) |
 | 0003 | CoinCombinationsI | [Open](0003-1635-CoinCombinationsI.cpp) |
 | 0004 | 0004.1636-CoinCombinationsII | [Open](0004.1636-CoinCombinationsII.cpp) |
+| 0005 | RemovingDigits | [Open](0005-1637-RemovingDigits.cpp) |
+| 0006 | GridPathsI | [Open](0006-1638-GridPathsI.cpp) |
+| 0007 | BookShop | [Open](0007-1158-BookShop.cpp) |
 
 <!-- REPO-STATS:END -->
