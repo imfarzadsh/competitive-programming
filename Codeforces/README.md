@@ -5,6 +5,20 @@ Welcome to my Codeforces solutions repository! Here I organize my solutions base
 ---
 
 <!-- REPO-STATS:START -->
+
+## 📊 Stats
+
+**Total Solved: 26** — `cpp`: 26
+
+| Category | Solved Count | Directory Link |
+| --- | ---: | --- |
+| Rating-0800 | 13 | [Open](Rating-0800/) |
+| Rating-0900 | 2 | [Open](Rating-0900/) |
+| Rating-1000 | 3 | [Open](Rating-1000/) |
+| Rating-1100 | 4 | [Open](Rating-1100/) |
+| Rating-1200 | 2 | [Open](Rating-1200/) |
+| Rating-1300 | 2 | [Open](Rating-1300/) |
+
 <!-- REPO-STATS:END -->
 
 ---

@@ -10,6 +10,27 @@
 در اینجا می‌توانید راه‌حل‌های پذیرفته‌شده (Accepted) من برای سوالات پلتفرم‌های مختلف را پیدا کنید. من تلاش می‌کنم کدها را تمیز، بهینه‌شده و با توضیحات (داکیومنت) مناسب نگه دارم.
 
 <!-- REPO-STATS:START -->
+
+## 📊 Stats
+
+**Total Solved: 47** — `cpp`: 47
+
+| Platforms | Solved Count | Directory Link |
+| --- | ---: | --- |
+| Codeforces | 26 | [Open](Codeforces/) |
+| CSES | 19 | [Open](CSES/) |
+| fundamentals | 2 | [Open](fundamentals/) |
+
+### 🕒 Last 5 pushed solutions
+
+| Problem | Directory Link |
+| --- | --- |
+| DiceCombinations | [Open](CSES/03.DynamicProgramming/0001-1633-DiceCombinations.cpp) |
+| RestaurantCustomers | [Open](CSES/02.SortingAndSearching/0005-1619-RestaurantCustomers.cpp) |
+| ConcertTickets | [Open](CSES/02.SortingAndSearching/0004-1091-ConcertTickets.cpp) |
+| FerrisWheel | [Open](CSES/02.SortingAndSearching/0003-1090-FerrisWheel.cpp) |
+| CountingRooms | [Open](CSES/04.GraphAlgorithms/0001-1192-CountingRooms.cpp) |
+
 <!-- REPO-STATS:END -->
 
 
