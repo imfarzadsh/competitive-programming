@@ -1,3 +1,9 @@
+# 📚 Fundamentals
+
+Welcome to my Fundamentals section! Here I collect implementations of essential algorithms, data structures, and programming concepts, organized by topic.
+
+---
+
 <!-- REPO-STATS:START -->
 
 ## 📊 Stats
