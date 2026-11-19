@@ -1,4 +1,4 @@
-**# CSES Introductory Problems Solutions**
+# CSES Introductory Problems Solutions
 
 <!-- REPO-STATS:START -->
 

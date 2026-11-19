@@ -1,4 +1,4 @@
-**# CSES Sorting and Searching Solutions**
+# CSES Sorting and Searching Solutions
 
 <!-- REPO-STATS:START -->
 

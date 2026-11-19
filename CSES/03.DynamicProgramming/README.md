@@ -1,4 +1,4 @@
-**# CSES Dynamic Programming Solutions**
+# CSES Dynamic Programming Solutions
 
 <!-- REPO-STATS:START -->
 
