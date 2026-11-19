@@ -9,11 +9,8 @@
 
 در اینجا می‌توانید راه‌حل‌های پذیرفته‌شده (Accepted) من برای سوالات پلتفرم‌های مختلف را پیدا کنید. من تلاش می‌کنم کدها را تمیز، بهینه‌شده و با توضیحات (داکیومنت) مناسب نگه دارم.
 
-| پلتفرم | پروفایل / نام کاربری من | تعداد حل‌شده |
-| :--- | :--- | :---: |
-| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=24" width="16"/> **Codeforces** | [`[imFarzadSh]`](https://codeforces.com/profile/imFarzadSh) | 26 |
-| 🧩 **CSES** | [`[imFarzadSh]`](https://cses.fi/user/392257) | 19 |
-| 💻 **Quera** | [`[farzad shahbazi]`](https://quera.org/profile/f4x7ht) | ⏳ |
+<!-- REPO-STATS:START -->
+<!-- REPO-STATS:END -->
 
 
 ## 🧠 مباحث اصلی و حوزه‌های تمرکز

@@ -9,11 +9,8 @@ This space is dedicated to my daily practice, mastering data structures, and act
 
 Here you can find my accepted solutions to problems from various platforms. I try to keep the code clean, optimized, and well-documented.
 
-| Platform | My Profile / Handle | Solved Count |
-| :--- | :--- | :---: |
-| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=24" width="16"/> **Codeforces** | [`[imFarzadSh]`](https://codeforces.com/profile/imFarzadSh) | 26 |
-| 🧩 **CSES** | [`[imFarzadSh]`](https://cses.fi/user/392257) | 19 |
-| 💻 **Quera** | [`[farzad shahbazi]`](https://quera.org/profile/f4x7ht) | ⏳ |
+<!-- REPO-STATS:START -->
+<!-- REPO-STATS:END -->
 
 ## 🧠 Core Topics & Focus Areas
 
