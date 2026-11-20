@@ -4,7 +4,7 @@
 
 ## 📊 Stats
 
-**Total Solved: 5** — `cpp`: 5
+**Total Solved: 6** — `cpp`: 6
 
 | Number | Problem | Directory Link |
 | ---: | --- | --- |
@@ -13,5 +13,6 @@
 | 0003 | FerrisWheel | [Open](0003-1090-FerrisWheel.cpp) |
 | 0004 | ConcertTickets | [Open](0004-1091-ConcertTickets.cpp) |
 | 0005 | RestaurantCustomers | [Open](0005-1619-RestaurantCustomers.cpp) |
+| 0006 | MovieFestival | [Open](0006-1629-MovieFestival.cpp) |
 
 <!-- REPO-STATS:END -->

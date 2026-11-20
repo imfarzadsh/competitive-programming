@@ -13,23 +13,23 @@
 
 ## 📊 Stats
 
-**Total Solved: 53** — `cpp`: 53
+**Total Solved: 54** — `cpp`: 54
 
 | Platforms | Solved Count | Directory Link |
 | --- | ---: | --- |
 | Codeforces | 26 | [Open](Codeforces/) |
-| CSES | 25 | [Open](CSES/) |
+| CSES | 26 | [Open](CSES/) |
 | fundamentals | 2 | [Open](fundamentals/) |
 
 ### 🕒 Last 5 pushed solutions
 
 | Problem | Directory Link |
 | --- | --- |
+| MovieFestival | [Open](CSES/02.SortingAndSearching/0006-1629-MovieFestival.cpp) |
 | CoinCombinationsII | [Open](CSES/03.DynamicProgramming/0004-1636-CoinCombinationsII.cpp) |
 | RemovingDigits | [Open](CSES/03.DynamicProgramming/0005-1637-RemovingDigits.cpp) |
 | GridPathsI | [Open](CSES/03.DynamicProgramming/0006-1638-GridPathsI.cpp) |
 | BookShop | [Open](CSES/03.DynamicProgramming/0007-1158-BookShop.cpp) |
-| CoinCombinationsI | [Open](CSES/03.DynamicProgramming/0003-1635-CoinCombinationsI.cpp) |
 
 <!-- REPO-STATS:END -->
 
